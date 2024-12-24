@@ -1,0 +1,4 @@
+<launch>
+    <!-- Launch the robot mover publisher node -->
+    <node pkg="robot_description" type="robot_move.py" name="exercise_node" output="screen" />
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: writing_plugins
+Description: Description of writing_plugins
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
